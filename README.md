@@ -35,18 +35,13 @@ gcc -Wall -Wextra -o finance_manager main.c -lncurses
 
 ## 📁 Data Files
 
-    transactions.txt - All transactions
-
-    budgets.txt - Budget limits per category
+- transactions.txt - All transactions
+- budgets.txt - Budget limits per category
 
 ## 📚 Learning Goals
 
-    Complex program architecture
-
-    Budget calculations
-
-    Report generation
-
-    Data filtering
-
-    Advanced ncurses
+- Complex program architecture
+- Budget calculations
+- Report generation
+- Data filtering
+- Advanced ncurses
