@@ -33,13 +33,13 @@ gcc -Wall -Wextra -o finance_manager main.c -lncurses
 ./finance_manager
 ```
 
-📁 Data Files
+## 📁 Data Files
 
     transactions.txt - All transactions
 
     budgets.txt - Budget limits per category
 
-📚 Learning Goals
+## 📚 Learning Goals
 
     Complex program architecture
 
